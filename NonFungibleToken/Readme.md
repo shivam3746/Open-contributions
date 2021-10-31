@@ -66,7 +66,7 @@ This project is intentionally written with easily understandable code and is not
 
 We need an Ethereum address to interact with our Smart Contract. We will be using Metamask as our wallet. It is a free virtual wallet that manages your Ethereum addresses. We will need it to send and receive transactions (read more on that here). For example, minting an NFT is a transaction.
 
-Download their Chrome extension and their mobile app. We will need both as the Chrome extension does not display your NFTs.
+- Download their Chrome extension and their mobile app. We will need both as the Chrome extension does not display your NFTs.
 
 
 Make sure to change the network to "Ropsten Test Network" for development purposes. You will need some Eth to cover the fees of deploying and minting your NFT. Head to the Ropsten Ethereum Faucet and enter your address. You should soon see some test Eth in your Metamask account.
